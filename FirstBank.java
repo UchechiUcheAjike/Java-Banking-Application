@@ -1,4 +1,4 @@
-// Visit compscicentral.com, the #1 resource for Comp Sci students
+// Main class
 
 public class FirstBank {
 
