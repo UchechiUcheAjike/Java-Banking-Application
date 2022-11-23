@@ -14,7 +14,7 @@ F. Exit the application}
 
 {I wrote this software to help me get familiar with the Java programming language}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=jw8iC59fa9c)
 
 # Development Environment
 
